@@ -4,5 +4,5 @@ authors:
   - family-names: Li
     given-names: Liuchi
     orcid: https://orcid.org/0000-0002-1360-4757
-title: "Parallelized variational phase-field simulator for dynamic fracture simulations of solids"
+title: "A parallelized variational phase-field simulator for modeling dynamic fracture processes in solids"
 date-released: 2022-10-24
