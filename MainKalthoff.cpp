@@ -1,10 +1,3 @@
-/*
- * main.cpp
- *
- *  Created on: August 4, 2014
- *      Author: Reid
- */
- 
 
 #include "ReadInputFiles.h"
 #include "NewtonRaphson.h"
